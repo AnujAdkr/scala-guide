@@ -1,0 +1,2 @@
+# scala-guide
+Learning Scala
